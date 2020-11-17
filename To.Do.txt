@@ -1,0 +1,6 @@
+To Do:
+
+1.  Create a bank and a betting feature.
+2.  Add the ability to split and double down
+3.  Incorporate blackjack into betting
+4.  Add a automatic reshuffle feature so you never run out of cards
